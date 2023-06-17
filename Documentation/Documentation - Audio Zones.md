@@ -20,7 +20,7 @@
 
 ## Installation
 
-<mark>!!! - Import install [RiskyKen - Core](https://payhip.com/b/cg4tN) first - !!!</mark>
+**!!! - Import install [RiskyKen - Core](https://payhip.com/b/cg4tN) first - !!!**
 
 Creator Companion Install: [Package Install - VRChat Creator Companion](https://docs.google.com/document/d/1u4XdBijIuOShECT0Nvwb43c_BHeK4vfTMugFvlvQO54/edit)
 
