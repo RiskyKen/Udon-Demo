@@ -21,7 +21,7 @@ Unity Package Install:Package Install - Unity
 Some parts of the documentation will refer to prefabs that come with Audio Zones. See below for how to find them.
 
 Package install prefabs this will be under: “Assets\RiskyKen\Udon\Utils\Audio Zones\Examples\Prefabs“  
-![ab2b35533f99fa923b3b95249f4624de.png](resources/ab2b35533f99fa923b3b95249f4624de.png)
+![ab2b35533f99fa923b3b95249f4624de.png](/resources/ab2b35533f99fa923b3b95249f4624de.png)
 
 Creator Companion install prefabs will be under: “Packages\RiskyKen - Audio Zones\Examples\Prefabs”  
 
