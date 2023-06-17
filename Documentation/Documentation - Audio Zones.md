@@ -1,20 +1,30 @@
-## **Documentation - Audio Zones**
+# Documentation - Audio Zones
 
-* * *
+<mark>**This documentation is still unfinished!!!**</mark>  
 
-==**This documentation is still unfinished!!!**==
+## Contents
 
-* * *
+- [Contents](#contents)
+- [Installation](#installation)
+- [Prefabs Location](#prefabs-location)
+- [Audio Occlusion](#audio-occlusion)
+  - [Adding Audio Occlusion](#adding-audio-occlusion)
+  - [Custom Audio Settings](#custom-audio-settings)
+- [Audio Channels](#audio-channels)
+- [Audio Boost](#audio-boost)
+  - [Zones](#zones)
+  - [Pickup](#pickup)
+- [Audio Blocking Layer (Advanced)](#audio-blocking-layer--advanced-)
+- [Toggle Audio Zones System](#toggle-audio-zones-system)
+- [Toggleable Audio Barrier](#toggleable-audio-barrier)
 
 ## Installation
 
-==!!! - Import install RiskyKen - Core first - !!!==
+<mark>!!! - Import install RiskyKen - Core first - !!!</mark>
 
 Creator Companion Install: Package Install - VRChat Creator Companion
 
 Unity Package Install:Package Install - Unity
-
-* * *
 
 ## Prefabs Location
 
