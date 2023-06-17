@@ -97,10 +97,10 @@ Audio channels can segregate audio between players without the need for a wall b
 
 First drag in the `Audio Zones - Area` prefab into your scene, unpack the prefab then move it to the location you want.  
 
-When selecting the object we can see all the settings for this audio area. Change the audio channel value to a new number like 1. The edit collider button on the box collider can be used to change the size of the zone.
+When selecting the object we can see all the settings for this audio area. Change the audio channel value to a new number like 1. The edit collider button on the box collider can be used to change the size of the zone.  
 ![fa3092c918014dcf791196af8be78677.png](/resources/fa3092c918014dcf791196af8be78677.png)
 
-Finally select the manager object and press the `Auto Fill Effectors` button.
+Finally select the manager object and press the `Auto Fill Effectors` button.  
 ![1fb0a7ad928963275a67d6258b93265c.png](/resources/1fb0a7ad928963275a67d6258b93265c.png)
 
 * * *
