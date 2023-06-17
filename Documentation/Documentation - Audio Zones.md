@@ -20,7 +20,7 @@
 
 ## Installation
 
-**<mark>!!! - Import install [RiskyKen - Core](https://payhip.com/b/cg4tN) first - !!!</mark>**
+<mark>!!! - Import install [RiskyKen - Core](https://payhip.com/b/cg4tN) first - !!!</mark>
 
 Creator Companion Install: [Package Install - VRChat Creator Companion](https://docs.google.com/document/d/1u4XdBijIuOShECT0Nvwb43c_BHeK4vfTMugFvlvQO54/edit)
 
@@ -89,8 +89,6 @@ Next select `Occluded Audio Settings`.
 These are the settings used when a player is behind an audio blocking object like a wall. If you would like the player's voice to still be slightly audible when occluded, increase the voice far and voice gain values by a small amount otherwise leave everything at 0.  
 ![204c710da52c37733008834eeeff0c6d.png](/resources/204c710da52c37733008834eeeff0c6d-1.png)
 
-* * *
-
 ## Audio Channels
 
 Audio channels can segregate audio between players without the need for a wall between them. By default all players start in audio channel 0, this can be changed on the audio zone manager if you like.
@@ -102,8 +100,6 @@ When selecting the object we can see all the settings for this audio area. Chang
 
 Finally select the manager object and press the `Auto Fill Effectors` button.  
 ![1fb0a7ad928963275a67d6258b93265c.png](/resources/1fb0a7ad928963275a67d6258b93265c-1.png)
-
-* * *
 
 ## Audio Boost
 
